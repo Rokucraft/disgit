@@ -9,7 +9,7 @@ workers_dev = true
 IGNORED_BRANCH_REGEX=""
 IGNORED_BRANCHES=""
 IGNORED_USERS=""
-IGNORED_PAYLOADS=""
+IGNORED_PAYLOADS="check_run"
 
 # Uses secrets:
 # - PASTE_GG_API_KEY
